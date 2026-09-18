@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<DevRes>
+    <Translations>
+        <Res id="appTitle" tr="Checkers"/>
+        <Res id="App" tr="App"/>
+        <Res id="Quit" tr="Quit"/>
+        <Res id="Game" tr="Game"/>
+        <Res id="start" tr="Start"/>
+        <Res id="stop" tr="Stop"/>
+        <Res id="reset" tr="Reset"/>
+        <Res id="settings" tr="Settings"/>
+
+        <Res id="startTT" tr="Start the game"/>
+        <Res id="stopTT" tr="Stop the game"/>
+        <Res id="resetTT" tr="Reset the board"/>
+        <Res id="settingsTT" tr="Open settings"/>
+
+        <Res id="closeNOK" tr="Cannot close the game"/>
+        <Res id="closeErr" tr="Stop the game before closing."/>
+
+        <Res id="lblLang" tr="Current language:"/>
+        <Res id="lblLang2" tr="New language:"/>
+
+        <!-- REQUIRED BY ViewSettings -->
+        <Res id="theme" tr="Theme"/>
+        <Res id="chbTBIcsAndLbls" tr="Show icons and labels on toolbar"/>
+        <Res id="showStatusBar" tr="Show status bar"/>
+        <Res id="chbUseCombo" tr="Use combobox in toolbar"/>
+
+        <Res id="RestartRequired" tr="Restart Required"/>
+        <Res id="RestartRequiredInfo" tr="Changes require restarting the application."/>
+        <Res id="Restart" tr="Restart"/>
+        <Res id="DoNoRestart" tr="Not now"/>
+		<Res id="dlgSettings" tr="Settings"/>
+		<Res id="Ok" tr="OK"/>
+		<Res id="Cancel" tr="Cancel"/>
+
+		<Res id="YouWin" tr="Win!"/>
+		<Res id="YouWinInfo" tr="Congrats! You won. Do you want to play again?"/>
+		<Res id="YouLose" tr="lose"/>
+		<Res id="YouLoseInfo" tr="you lost. Do you want to play again?"/>
+		<Res id="Draw" tr="Draw"/>
+		<Res id="DrawInfo" tr="Draw. Do you want to play again?"/>
+		<Res id="PlayAgain" tr="play again"/>
+		<Res id="Close" tr="Close"/>
+
+	</Translations>
+</DevRes>

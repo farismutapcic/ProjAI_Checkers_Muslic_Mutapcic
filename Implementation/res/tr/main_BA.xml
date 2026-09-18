@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<DevRes>
+    <Translations>
+        <Res id="appTitle" tr="Dame"/>
+        <Res id="App" tr="Aplikacija"/>
+        <Res id="Quit" tr="Izlaz"/>
+        <Res id="Game" tr="Igra"/>
+        <Res id="start" tr="Pokreni"/>
+        <Res id="stop" tr="Zaustavi"/>
+        <Res id="reset" tr="Resetuj"/>
+        <Res id="settings" tr="Postavke"/>
+
+        <Res id="startTT" tr="Pokreni igru"/>
+        <Res id="stopTT" tr="Zaustavi igru"/>
+        <Res id="resetTT" tr="Resetuj tablu"/>
+        <Res id="settingsTT" tr="Otvori postavke"/>
+
+        <Res id="closeNOK" tr="Nije moguće zatvoriti igru"/>
+        <Res id="closeErr" tr="Zaustavi igru prije zatvaranja."/>
+
+        <Res id="lblLang" tr="Trenutni jezik:"/>
+        <Res id="lblLang2" tr="Novi jezik:"/>
+
+        <!-- REQUIRED BY ViewSettings -->
+        <Res id="theme" tr="Tema"/>
+        <Res id="chbTBIcsAndLbls" tr="Prikaži ikone i tekst na alatnoj traci"/>
+        <Res id="showStatusBar" tr="Prikaži statusnu traku"/>
+        <Res id="chbUseCombo" tr="Koristi padajuću listu na alatnoj traci"/>
+
+        <Res id="RestartRequired" tr="Potrebno je restartovanje"/>
+        <Res id="RestartRequiredInfo" tr="Promjene zahtijevaju ponovno pokretanje aplikacije."/>
+        <Res id="Restart" tr="Restartuj"/>
+        <Res id="DoNoRestart" tr="Ne sada"/>
+		<Res id="dlgSettings" tr="Postavke"/>
+		<Res id="Ok" tr="U redu"/>
+		<Res id="Cancel" tr="Otkaži"/>
+
+		<Res id="YouWin" tr="Pobjeda!"/>
+		<Res id="YouWinInfo" tr="Bravo! Pobijedio si. Želiš li igrati ponovo?"/>
+		<Res id="YouLose" tr="Poraz"/>
+		<Res id="YouLoseInfo" tr="Izgubio si. Želiš li igrati ponovo?"/>
+		<Res id="Draw" tr="Neriješeno"/>
+		<Res id="DrawInfo" tr="Neriješeno. Želiš li igrati ponovo?"/>
+		<Res id="PlayAgain" tr="Igraj ponovo"/>
+		<Res id="Close" tr="Zatvori"/>
+
+	</Translations>
+</DevRes>
