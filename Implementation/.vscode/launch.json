@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Checkers",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/sehy/natID.RAMDisk/Out/Checkers/Debug/Checkers",
+            "args": [],
+            "cwd": "/home/sehy/natID/natID.Examples/mine/checkerssssss",
+            "environment": [
+                {
+                    "name": "LD_LIBRARY_PATH",
+                    "value": "/home/sehy/natID.SDK/bin/lib:$LD_LIBRARY_PATH"
+                }
+            ],
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}
